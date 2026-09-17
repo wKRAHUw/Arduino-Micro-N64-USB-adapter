@@ -30,7 +30,7 @@ The folder contains:
 -A Pads layout file for use with a PCB milling machine.
 -A PNG wiring diagram showing how to wire the adapter.
 
-
+You will need to get the Joystick library by Matthew Heironimus.
 
 You do not need a PCB milling machine to build the adapter. You can wire the circuit directly on a breadboard.
 
