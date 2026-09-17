@@ -2,7 +2,7 @@
  * N64 data-line pin macros for cycle-accurate AVR bit-banging.
  *
  * The N64 protocol toggles the line by switching the pin between
- * INPUT (idle high via external 2.2k pull-up to 3.3V) and OUTPUT LOW.
+ * INPUT (idle high via external 1.2k pull-up to 3.3V) and OUTPUT LOW.
  *
  * Change N64_DATA_PIN below if your data wire uses a different digital pin.
  * Only pins on PORTD are supported (pins 2-4 on Leonardo / Micro / Pro Micro).
