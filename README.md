@@ -17,7 +17,7 @@ Some buttons may also appear under incorrect names in applications such as **sm6
 The project contains:
 
 * Complete Arduino source code
-* PCB layout file for use with a PCB milling machine
+* PCB layout file for use with a PCB milling machine(if you have access to one)
 * PNG wiring diagram showing how to wire the adapter
 
 ## Required Library
