@@ -10,7 +10,6 @@ The folder includes the complete, working Arduino code. All N64 buttons are supp
 
 One thing to note is that, in my experience, the adapter did not work correctly with a second-hand N64 controller that I tested. It worked properly with an OEM N64 controller.
 
-Some buttons may also appear under incorrect names in applications such as **sm64coopdx**. The buttons themselves work correctly; only their displayed names may be incorrect, so I did not change the mappings.
 
 ## Included Files
 
